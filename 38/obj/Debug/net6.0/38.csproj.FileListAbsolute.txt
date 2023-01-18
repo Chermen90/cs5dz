@@ -1,0 +1,15 @@
+C:\Users\zarin\Desktop\cs5semdz\38\bin\Debug\net6.0\38.exe
+C:\Users\zarin\Desktop\cs5semdz\38\bin\Debug\net6.0\38.deps.json
+C:\Users\zarin\Desktop\cs5semdz\38\bin\Debug\net6.0\38.runtimeconfig.json
+C:\Users\zarin\Desktop\cs5semdz\38\bin\Debug\net6.0\38.dll
+C:\Users\zarin\Desktop\cs5semdz\38\bin\Debug\net6.0\38.pdb
+C:\Users\zarin\Desktop\cs5semdz\38\obj\Debug\net6.0\38.csproj.AssemblyReference.cache
+C:\Users\zarin\Desktop\cs5semdz\38\obj\Debug\net6.0\38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zarin\Desktop\cs5semdz\38\obj\Debug\net6.0\38.AssemblyInfoInputs.cache
+C:\Users\zarin\Desktop\cs5semdz\38\obj\Debug\net6.0\38.AssemblyInfo.cs
+C:\Users\zarin\Desktop\cs5semdz\38\obj\Debug\net6.0\38.csproj.CoreCompileInputs.cache
+C:\Users\zarin\Desktop\cs5semdz\38\obj\Debug\net6.0\38.dll
+C:\Users\zarin\Desktop\cs5semdz\38\obj\Debug\net6.0\refint\38.dll
+C:\Users\zarin\Desktop\cs5semdz\38\obj\Debug\net6.0\38.pdb
+C:\Users\zarin\Desktop\cs5semdz\38\obj\Debug\net6.0\38.genruntimeconfig.cache
+C:\Users\zarin\Desktop\cs5semdz\38\obj\Debug\net6.0\ref\38.dll
